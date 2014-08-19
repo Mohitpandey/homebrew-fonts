@@ -3,7 +3,6 @@ class FontAnonymousProForPowerline < Cask
   sha256 :no_check
 
   url 'https://github.com/Mohitpandey/powerline-fonts/tree/master/AnonymousPro',
-      :using => :svn,
       :trust_cert => true
   homepage 'https://github.com/Mohitpandey/powerline-fonts/tree/master/AnonymousPro'
 
